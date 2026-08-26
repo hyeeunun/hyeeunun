@@ -4,7 +4,8 @@
 
 ### 손혜은
 
-데이터로 제조·생산 현장의 문제를 발견하고 해결하는 산업경영공학도입니다.
+데이터로 제조·생산 현장의 문제를 발견하고 해결하는 산업경영공학도입니다. 
+
 컴퓨터 비전과 이상탐지를 활용해 공정 모니터링·품질 검사 자동화를 연구합니다.
 
 </div>
@@ -43,7 +44,7 @@
   - HSV + 통계적 면적 필터링(99% 분위수), VIP 'V' 마크 라벨링 등 다중 검증 로직 구현
   - PyQt5 GUI로 실시간 재고 현황 제공
 - **결과**: 전 클래스 분류·계수 정확도 97% 이상, 화재 위험 객체 오탐지 최소화
-- **링크**: [저장소](https://github.com/{{내아이디}}/{{저장소명}})
+- **링크**: [저장소](https://github.com/hyeeunun)
 - `Python` `YOLO` `OpenCV` `PyQt5`
 
 #### 스테레오 비전 기반 수건 꼭짓점 3D 인식
@@ -55,7 +56,7 @@
   - 스테레오 캘리브레이션 및 로봇 제어 로직 설계
   - 이미지 10,412장 / 인스턴스 34,923개 데이터셋 구축·학습
 - **결과**: mAP@50 0.879, 캘리브레이션 RMS 0.96, 좌표 오차 1cm 이내
-- **링크**: [저장소](https://github.com/{{내아이디}}/{{저장소명}})
+- **링크**: [저장소](https://github.com/hyeeunun)
 - `Python` `YOLO` `OpenCV` `Stereo Vision`
 
 #### 센서 데이터 기반 설비 이상탐지
@@ -65,8 +66,8 @@
   - 설비 온도 시계열 데이터의 이상 패턴 탐지 모델 개발
   - 공정 모니터링 자동화를 위한 분석 파이프라인 구성
 - **결과**: ICICIC 학회 논문 투고 예정
-- **링크**: [저장소](https://github.com/{{내아이디}}/{{저장소명}})
-- `Python` `Time Series
+- **링크**: [저장소](https://github.com/hyeeunun)
+- `Python` 'Time Series'
 
 
 ---
@@ -81,19 +82,7 @@
 | 2026.07 | 자격증 취득 — ADsP, SQLD, 정보처리기사 |
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=내아이디&show_icons=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=내아이디&layout=compact&hide_border=true)
-
-</div>
-
----
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:이메일주소)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](블로그 주소)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](링크드인 주소)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hyeeun0875@gmail.com)
