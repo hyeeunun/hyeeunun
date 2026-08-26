@@ -1,0 +1,99 @@
+<div align="center">
+
+<img src="images/profile.png" width="140" alt="{{이름}}" />
+
+### 손혜은
+
+데이터로 제조·생산 현장의 문제를 발견하고 해결하는 산업경영공학도입니다.
+컴퓨터 비전과 이상탐지를 활용해 공정 모니터링·품질 검사 자동화를 연구합니다.
+
+</div>
+
+---
+
+### About Me
+- **관심 분야**: 제조·생산 데이터 분석, 스마트팩토리, 컴퓨터 비전, 이상탐지
+- **지금 하고 있는 것**:학부연구생 (제조 데이터·컴퓨터 비전 분야 연구, 1년 6개월+)
+- **배우는 중**: VLM 기반 산업 결함 검출, 제조 AAS
+- **기록하는 습관**: 프로젝트 설계~결과 분석 및 일정 관리를 notion에 기록
+- **함께 하는 것**: 학회 논문 작성, VLM 스터디
+
+---
+
+### Tech Stack
+
+**주로 사용하는 기술**
+
+<img src="https://skillicons.dev/icons?i=python,opencv" alt="주로 사용하는 기술" />
+
+**학습 중**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" alt="학습 중" />
+
+---
+
+### Projects
+
+#### 폐냉장고 실시간 모니터링 시스템
+- **기간**: 2025.03 ~ 2025.11
+- **역할**: 2인 팀 · 폐냉장고 탐지 시스템 개발
+- **한 일**:
+  - YOLO 기반 폐냉장고 실시간 객체 인식·계수 시스템 개발
+  - 바운딩 박스 좌표의 통계적 분포 분석 기반 동적 기준선 계수 알고리즘 설계
+  - HSV + 통계적 면적 필터링(99% 분위수), VIP 'V' 마크 라벨링 등 다중 검증 로직 구현
+  - PyQt5 GUI로 실시간 재고 현황 제공
+- **결과**: 전 클래스 분류·계수 정확도 97% 이상, 화재 위험 객체 오탐지 최소화
+- **링크**: [저장소](https://github.com/{{내아이디}}/{{저장소명}})
+- `Python` `YOLO` `OpenCV` `PyQt5`
+
+#### 스테레오 비전 기반 수건 꼭짓점 3D 인식
+- **기간**: 2025.11 ~ 2026.03
+- **역할**: 4인 팀 · 객체 탐지 및 3D 좌표 추출 파이프라인 담당
+- **한 일**:
+  - YOLO 기반 수건·꼭짓점 탐지
+  - 두 카메라 대응점 매칭 + 삼각측량 기반 3차원 좌표 계산
+  - 스테레오 캘리브레이션 및 로봇 제어 로직 설계
+  - 이미지 10,412장 / 인스턴스 34,923개 데이터셋 구축·학습
+- **결과**: mAP@50 0.879, 캘리브레이션 RMS 0.96, 좌표 오차 1cm 이내
+- **링크**: [저장소](https://github.com/{{내아이디}}/{{저장소명}})
+- `Python` `YOLO` `OpenCV` `Stereo Vision`
+
+#### 센서 데이터 기반 설비 이상탐지
+- **기간**: 2026.03 ~ 2026.07
+- **역할**: 3인 팀 · 비지도 학습 기반 이상탐지 모델링 및 분석
+- **한 일**:
+  - 설비 온도 시계열 데이터의 이상 패턴 탐지 모델 개발
+  - 공정 모니터링 자동화를 위한 분석 파이프라인 구성
+- **결과**: ICICIC 학회 논문 투고 예정
+- **링크**: [저장소](https://github.com/{{내아이디}}/{{저장소명}})
+- `Python` `Time Series
+
+
+---
+
+## Activities
+
+| 기간 | 활동 |
+|---|---|
+| 2025.01 ~ 현재 | 학부연구생 — 제조 데이터·컴퓨터 비전 분야 연구 수행 |
+| 2026.06 | 영천시 wlsgo데이터 활용 경진대회 데이터 시각화 부문 최우수상(1위) — 스마트인프라 입지 분석 |
+| 2025.11 | 학회 논문 발표 — 폐냉장고 카운팅 시스템 / 수건 인식 (초록 발표) |
+| 2026.07 | 자격증 취득 — ADsP, SQLD, 정보처리기사 |
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=내아이디&show_icons=true&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=내아이디&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:이메일주소)
+[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](블로그 주소)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](링크드인 주소)
