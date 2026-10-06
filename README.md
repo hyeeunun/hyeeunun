@@ -25,7 +25,7 @@
 
 **주로 사용하는 기술**
 
-<img src="https://skillicons.dev/icons?i=python,opencv" alt="주로 사용하는 기술" />
+<img src="https://skillicons.dev/icons?i=python,opencv,mysql" alt="주로 사용하는 기술" />
 
 **학습 중**
 
